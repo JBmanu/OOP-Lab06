@@ -1,5 +1,9 @@
 #SpotBugs User Preferences
+<<<<<<< HEAD
 #Fri Oct 30 11:53:55 CET 2020
+=======
+#Fri Oct 30 11:59:51 CET 2020
+>>>>>>> solutions
 detectorExplicitSerialization=ExplicitSerialization|true
 detectorMultithreadedInstanceAccess=MultithreadedInstanceAccess|true
 detectorConfusionBetweenInheritedAndOuterMethod=ConfusionBetweenInheritedAndOuterMethod|true
